@@ -1,7 +1,7 @@
 # Scheme-Interpreter
  UCB CS61A Project 4: Scheme Interpreter
  My solution to this project, using starter code provided at [cs61a.org](https://cs61a.org/proj/scheme/)
- Contributions in scheme_classes.py, scheme_eval_apply.py, and scheme_forms.py.
+ Contributions in **scheme_classes.py**, **scheme_eval_apply.py**, and **scheme_forms.py**.
  
  The rest of the files in the project:
  - scheme.py: the interpreter REPL
