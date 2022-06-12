@@ -1,2 +1,3 @@
 # Scheme-Interpreter
- UC Berkeley cs61a Sheme Interpreter project
+ UCB CS61A Project 4: Scheme Interpreter
+ My solution to this project, using starter code provided at [cs61a.org](https://cs61a.org/proj/scheme/)
