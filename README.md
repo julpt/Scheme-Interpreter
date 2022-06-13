@@ -3,7 +3,7 @@
  My solution to this project, using starter code provided at [cs61a.org](https://cs61a.org/proj/scheme/).  
  Contributions in **scheme_classes.py**, **scheme_eval_apply.py**, and **scheme_forms.py**.  
    
- The rest of the files in the project:
+ The rest of the files in the project, provided by the course:
  - scheme.py: the interpreter REPL
  - pair.py: defines the Pair class and the nil object
  - scheme_builtins.py: built-in Scheme procedures
